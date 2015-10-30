@@ -1,0 +1,2 @@
+Jittery screen or gpu artifacts:
+	Turn off graphics acceleration except 2d line smoothing
