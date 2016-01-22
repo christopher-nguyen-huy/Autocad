@@ -1,2 +1,9 @@
 Jittery screen or gpu artifacts:
 	Turn off graphics acceleration except 2d line smoothing
+	
+How to get block count
+	BCOUNT
+		then F2 to open cmd promt
+	QSELECT
+		then enter enter
+	
